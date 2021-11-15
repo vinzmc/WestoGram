@@ -1,4 +1,4 @@
 # WestoGram
 CLI based restaurant cashier system APP
 
-This is my very first program that i created to graduate Algorithm university course.
+This is some of my earlier programming project using C, to graduate Algorithm and Data Structure course in college.
