@@ -16,3 +16,9 @@ This is some of my earlier programming project using C, to graduate Algorithm an
 - Binary Tree
 - Sort Algorithm
 - DFS
+
+## Application Demo:
+![Preview1](./assets/2.png "Admin Mode")
+![Preview2](./assets/1.png "User Mode")
+![Preview3](./assets/3.png "Order")
+![Preview4](./assets/4.png "Edit Order")
