@@ -3,11 +3,14 @@ CLI based restaurant cashier system
 
 This is some of my earlier programming project using C, to graduate Algorithm and Data Structure course in college.
 
+## Why even bother keeping this project?
+This project kinda important for my programming skill development. 
+Even though this is not a very good project, but through this project I learn and improve myself. 
+
 ## Features
 
 - User/Admin Modes
 - CRUD
-- Fully Working CLI Application
 
 
 ## Algorithm and Data Structures
