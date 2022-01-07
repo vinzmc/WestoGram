@@ -22,3 +22,10 @@ This is some of my earlier programming project using C, to graduate Algorithm an
 ![Preview2](./assets/1.png "User Mode")
 ![Preview3](./assets/3.png "Order")
 ![Preview4](./assets/4.png "Edit Order")
+
+
+### Notes:
+Actually, there seems to be a bug in the application...
+Found Bugs:
+- Employee Gtree
+- Order List Stock always empty
